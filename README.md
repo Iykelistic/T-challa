@@ -1,2 +1,2 @@
-# T-challa
-A responsive single page website
+# Saffron
+A responsive single page website designed using HTML and CSS.
